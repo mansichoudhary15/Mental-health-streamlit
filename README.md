@@ -6,10 +6,10 @@ This project analyzes the 2014 OSMI Mental Health in Tech Survey to understand m
 The analysis focuses on demographic factors and workplace characteristics associated with seeking mental health treatment.
 
 ## Objectives
-- Analyze mental health treatment-seeking behavior
+- Analyze mental health treatment-seeking behaviour
 - Explore demographic patterns
 - Study the impact of workplace policies and benefits
-- Analyze factors such as anonymity, family history, benefits, care options, and wellness programs
+- Analyze factors such as anonymity, family history, benefits, care options and wellness programs
 - Present insights through an interactive Streamlit dashboard
 
 ## Dataset
