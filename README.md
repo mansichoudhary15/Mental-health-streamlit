@@ -22,7 +22,7 @@ The project uses the 2014 OSMI Mental Health in Tech Survey dataset.
 - Matplotlib
 - Seaborn
 - Streamlit
-- Jupyter Notebook
+- Colab Notebook
 
 ## Project Files
 - Copy of EDA Notebook.ipynb — Exploratory Data Analysis
